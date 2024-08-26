@@ -2,7 +2,7 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "http://blog.qiyao2023.serv00.net/wp-admin/themes.php"
+    "link": "http://blog.qiyao2023.serv00.net/"
   },
   {
     "icon": "Cloud",
@@ -10,27 +10,22 @@
     "link": "http://forum.qiyao2023.serv00.net/"
   },
   {
-    "icon": "CompactDisc",
+    "icon": "AccessPoint",
+    "name": "服务器状态",
+    "link": "https://stats.uptimerobot.com/MX53qc2M0M"
+  },
+  {
+    "icon": "BorderNone20Filled",
     "name": "暂无",
     "link": ""
   },
   {
-    "icon": "Compass",
+    "icon": "BorderNone20Filled",
     "name": "暂无",
     "link": ""
   },
   {
-    "icon": "Book",
-    "name": "暂无",
-    "link": ""
-  },
-  {
-    "icon": "Fire",
-    "name": "暂无",
-    "link": ""
-  },
-  {
-    "icon": "LaptopCode",
+    "icon": "BorderNone20Filled",
     "name": "暂无",
     "link": ""
   }
